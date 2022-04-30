@@ -1,5 +1,5 @@
 ### Hi there , I'm Rao Ali - AKA [rootxRAN]  👋
-### I am a Cyber Security student and developer
+### I am a Cyber Security student and Developer
 <!--
 **raoalinawaz-cys/raoalinawaz-cys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
