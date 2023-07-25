@@ -8,17 +8,12 @@
 
 # 💻 Tech Stack:
 ## Development
-[![](https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,neovim,vim,visualstudio,vscode,linux)](https://skillicons.dev)<br/>
-## Cloud Deployment
-[![](https://skillicons.dev/icons?i=googlecloud,cloudflare,heroku,vercel)](https://skillicons.dev)<br/>
-## Frontend
-[![](https://skillicons.dev/icons?i=html,css,ts,js,react,next,tailwindcss,bootstrap)](https://skillicons.dev)<br/>
-## Databases
-[![](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis)](https://skillicons.dev)<br/>
-## Backend
-[![](https://skillicons.dev/icons?i=nodejs,spring,graphql,nginx,docker,kubernetes)](https://skillicons.dev)<br/>
-## App Development
-[![](https://skillicons.dev/icons?i=flutter,kotlin)](https://skillicons.dev)<br/>
+[![](https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,neovim,vim,visualstudio,vscode,linux)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=googlecloud,cloudflare,heroku,vercel)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=html,css,ts,js,react,next,tailwindcss,bootstrap,mysql,postgres,mongodb,redis)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=nodejs,spring)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=graphql,nginx,docker,kubernetes,flutter,kotlin)](https://skillicons.dev)<br/>
 ## Pentesting
 ![hackthebox](https://www.hackthebox.com/badge/image/1420781)
 
