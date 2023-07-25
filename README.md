@@ -8,7 +8,7 @@
 
 # 💻 Tech Stack:
 ## Development
-[![](https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,neovim,vim,visualstudio,vscode,linux)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=c,cpp,python,java,bash,powershell,neovim,vim,visualstudio,vscode,linux)](https://skillicons.dev)
 [![](https://skillicons.dev/icons?i=googlecloud,cloudflare,heroku,vercel)](https://skillicons.dev)
 [![](https://skillicons.dev/icons?i=html,css,ts,js,react,next,tailwindcss,bootstrap,mysql,postgres,mongodb,redis)](https://skillicons.dev)
 [![](https://skillicons.dev/icons?i=)](https://skillicons.dev)
