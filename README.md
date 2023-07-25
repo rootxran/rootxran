@@ -8,7 +8,7 @@
 
 # 💻 Tech Stack:
 ## Development
-[![](https://skillicons.dev/icons?i=c,cpp,python,java,bash,powershell,neovim,vim,visualstudio,vscode,linux,googlecloud,cloudflare,heroku,vercel,aws,qt,raspberrypi,html,css,ts,js,react,next,tailwindcss,bootstrap,mysql,postgres,mongodb,redis,nodejs,spring,graphql,nginx,docker,kubernetes,flutter,kotlin)](https://skillicons.dev)<br/>
+[![](https://skillicons.dev/icons?i=c,cpp,python,java,bash,powershell,neovim,vim,visualstudio,vscode,linux,googlecloud,cloudflare,heroku,vercel,aws,qt,raspberrypi,html,css,ts,js,react,next,tailwindcss,bootstrap,mysql,postgres,mongodb,redis,nodejs,spring,graphql,nginx,docker,kubernetes,flutter,kotlin)]()<br/>
 ## Pentesting
 ![hackthebox](https://www.hackthebox.com/badge/image/1420781)
 
