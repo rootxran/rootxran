@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rootxran)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?logo=LinkedIn&logoColor=white)](https://rootxran.com/linkedin)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?logo=LinkedIn&logoColor=white)]([https://rootxran.com/linkedin](https://www.linkedin.com/in/rao-ali-nawaz-907b6b239/))
 [![Codeforces](https://img.shields.io/badge/-Codeforces-0e76a8?logo=codeforces&logoColor=yellow)](https://codeforces.com/profile/rootxran)
 
 # 💻 Tech Stack:
