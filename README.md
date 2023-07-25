@@ -3,9 +3,12 @@
 🔭 I’m currently working on Web Application Security
 
 ## 🌐 Socials:
-
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/rootxran)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rao-ali-nawaz-907b6b239/)
+<a herf="https://twitter.com/rootxran">
+  <img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+<a herf="https://www.linkedin.com/in/rao-ali-nawaz-907b6b239/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 # 💻 Tech Stack:
 ## Development
 [![](https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,neovim,vim,visualstudio,vscode,linux)](https://skillicons.dev)<br/>
